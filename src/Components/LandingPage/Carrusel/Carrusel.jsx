@@ -1,8 +1,8 @@
 function Carrusel () {
     return (
-        <main className="m-2 p-1 flex w-screen border border-black">
-            <div className="">
-                imagenes
+        <main className=" p-2 flex w-full border border-black">
+            <div className=" m-2 p-1 border border-black">
+                imagenes de productos (Lo mas vendido) o del local
             </div>
         </main>
     )

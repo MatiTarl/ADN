@@ -53,7 +53,7 @@ function Carrusel () {
 ])
     
     return (
-        <main className=" p-2 flex w-full border border-black justify-center">
+        <main className=" p-2 flex w-full  justify-center">
             <div className="">
                 <Swiper
         effect={'coverflow'}

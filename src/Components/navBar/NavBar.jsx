@@ -6,7 +6,7 @@ import Logo from "./LogoADN/Logo"
 function NavBar() {
 
   return (
-    <main className=" flex border h-32 border-black w-full justify-between items-center ">
+    <main className=" flex border h-32 border-black w-full justify-between items-center static">
       <div className=" p-2 m-2 flex justify-start">
         <Logo></Logo>
       </div>

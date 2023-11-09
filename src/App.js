@@ -7,7 +7,7 @@ import ContactanosPage from './Components/ContactanosPage/Contactanos';
 
 function App() {
   return (
-    <div className="flex container ">
+    <div className="">
       <Routes>
         <Route path='/' element={<LandingPage></LandingPage>}/>
         <Route path='/AboutUs' element={<AboutPage></AboutPage>}/>

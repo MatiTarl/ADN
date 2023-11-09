@@ -53,7 +53,8 @@ function Carrusel () {
 ])
     
     return (
-        <main className=" p-2 flex w-full  justify-center">
+        <main className=" p-2 grid w-full  justify-center text-center">
+            <h1 className="m-3 mb-10 text-[2rem]">! Nuestros productos Más vendidos ¡</h1>
             <div className="">
                 <Swiper
         effect={'coverflow'}

@@ -37,7 +37,7 @@ function EndPage() {
                 </div>
                 <div className="w-[20%]">
                     <div className=" p-2 mt-3">
-                        Medios de pago
+                        Metodos de pago
                     </div>
                     <hr className="m-[0.5rem]"/>
                     <div className="p-2">

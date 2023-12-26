@@ -20,8 +20,7 @@ function EndPage() {
                     <div className="p-2 grid ml-1">
                         <p>Celular y WhatsApp:</p>
                         <p>+54 (261) 368-8606</p>
-                        <p>Email:</p>
-                        <p>consultas@adnpc.com.ar</p>
+                        <a>Contactanos</a>
                     </div>
                     <hr className="m-3" />
                     <div className="p-2 grid ">
